@@ -61,7 +61,6 @@
 
 ![img](https://img.shields.io/badge/GitHub-fefefe?style=flat&logo=GitHub&logoColor=black)
 ![img](https://img.shields.io/badge/Notion-fefefe?style=flat&logo=Notion&logoColor=black)
-![img](https://img.shields.io/badge/Linux-fefefe?style=flat&logo=Linux&logoColor=black)
 ![img](https://img.shields.io/badge/Slack-fefefe?style=flat&logo=Slack&logoColor=black)
 ![img](https://img.shields.io/badge/Discord-fefefe?style=flat&logo=Discord&logoColor=black)
 
