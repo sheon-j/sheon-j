@@ -88,5 +88,5 @@ AI Bootcamp 2nd  |  2021.03-2021.09
 
 ## Contact
 
-**e-mail**   jsh7704@naver.com
+**e-mail** &nbsp;&nbsp;&nbsp; jsh7704@naver.com
 
