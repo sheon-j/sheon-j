@@ -2,9 +2,14 @@
  Hello World! 👋
  this is S. Heon. J 🌱
 ```
+ 
+<br>
 
-![img](./src/profile_image.png)
-
+<div align='center'>
+ 
+![img](profile_image.png)
+</div>
+ 
 <br>
 
 ## Skills
