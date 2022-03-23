@@ -72,7 +72,7 @@
 
 ### [**Encore Playdata**](https://playdata.io/bootcamp_bigdata)
 
-Big Data Bootcamp 7th  |  2021.10-2022.04
+Big Data Bootcamp 7th  |  2021.11-2022.04
 
 * Web Applcation Developement
 * Data Engineering with Hadoop Ecosystem
