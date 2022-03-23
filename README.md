@@ -19,7 +19,6 @@
 ![img](https://img.shields.io/badge/Python-fefefe?style=flat&logo=Python&logoColor=black)
 ![img](https://img.shields.io/badge/Java-fefefe?style=flat&logo=Java&logoColor=black)
 ![img](https://img.shields.io/badge/JavaScript-fefefe?style=flat&logo=JavaScript&logoColor=black)
-![img](https://img.shields.io/badge/Docker-fefefe?style=flat&logo=Docker&logoColor=black)
 
 **Linux**
 
