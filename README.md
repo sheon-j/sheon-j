@@ -32,7 +32,8 @@
 ![img](https://img.shields.io/badge/Spring-fefefe?style=flat&logo=Spring&logoColor=6DB33F)
 ![img](https://img.shields.io/badge/Spring%20Boot-fefefe?style=flat&logo=Spring%20Boot&logoColor=6DB33F)
 ![img](https://img.shields.io/badge/Node.js-fefefe?style=flat&logo=Node.js&logoColor=339933)
-![img](https://img.shields.io/badge/Flask-fefefe?style=flat&logo=Flask&logoColor=black)<br>
+![img](https://img.shields.io/badge/Flask-fefefe?style=flat&logo=Flask&logoColor=black)
+![img](https://img.shields.io/badge/Swagger-fefefe?style=flat&logo=Swagger&logoColor=6DB33F)<br>
 ![img](https://img.shields.io/badge/MySQL-fefefe?style=flat&logo=MySQL&logoColor=4479A1)
 ![img](https://img.shields.io/badge/MariaDB-fefefe?style=flat&logo=MariaDB&logoColor=003545)
 ![img](https://img.shields.io/badge/PostgreSQL-fefefe?style=flat&logo=PostgreSQL&logoColor=4169E1)
