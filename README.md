@@ -49,6 +49,7 @@
 ![img](https://img.shields.io/badge/Hive-fefefe?style=flat&logo=Apache%20Hive&logoColor=black)
 ![img](https://img.shields.io/badge/Flume-fefefe?style=flat&logo=Apache&logoColor=D22128)
 ![img](https://img.shields.io/badge/Sqoop-fefefe?style=flat&logo=Apache&logoColor=D22128)
+![img](https://img.shields.io/badge/Airflow-fefefe?style=flat&logo=Apache%20Airflow&logoColor=black)
 
 **Data Science**
 
